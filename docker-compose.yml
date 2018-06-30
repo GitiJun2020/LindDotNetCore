@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  linddotnetcore.api:
+    image: linddotnetcoreapi
+    build:
+      context: .
+      dockerfile: LindDotNetCore.Api/Dockerfile
