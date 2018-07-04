@@ -6,7 +6,7 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Threading;
 
-namespace Lind.DotNetCore.Domain
+namespace LindDotNetCore.Domain
 {
     /// <summary>
     /// 字符主键生产器－仿照mongodb的分布式主键设计

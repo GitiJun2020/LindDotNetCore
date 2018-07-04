@@ -1,6 +1,6 @@
 ﻿using System.Net;
 
-namespace Lind.DotNetCore.Exceptions
+namespace LindDotNetCore.Exceptions
 {
     /// <summary>
     /// 无权访问异常

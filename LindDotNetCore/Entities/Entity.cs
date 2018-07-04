@@ -1,8 +1,8 @@
-﻿using Lind.DotNetCore.Domain;
+﻿using LindDotNetCore.Domain;
 using System;
 using System.ComponentModel;
 
-namespace Lind.DotNetCore.Entities
+namespace LindDotNetCore.Entities
 {
     /// <summary>
     /// 整型主键的实体

@@ -1,6 +1,6 @@
-﻿using Lind.DotNetCore.Domain;
+﻿using LindDotNetCore.Domain;
 
-namespace Lind.DotNetCore.Entities
+namespace LindDotNetCore.Entities
 {
     /// <summary>
     /// 字符型主键的实体

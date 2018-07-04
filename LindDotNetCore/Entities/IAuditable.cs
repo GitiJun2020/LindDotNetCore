@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ComponentModel;
 
-namespace Lind.DotNetCore.Entities
+namespace LindDotNetCore.Entities
 {
     /// <summary>
     /// 具有审记行为的实体接口

@@ -1,4 +1,4 @@
-﻿namespace Lind.DotNetCore.Domain
+﻿namespace LindDotNetCore.Domain
 {
     /// <summary>
     /// 声明为聚合根，标识接口

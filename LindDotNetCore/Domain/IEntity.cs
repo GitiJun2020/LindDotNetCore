@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Lind.DotNetCore.Domain
+namespace LindDotNetCore.Domain
 {
     /// <summary>
     /// 实体类标示接口（主键类型由派生类确定）

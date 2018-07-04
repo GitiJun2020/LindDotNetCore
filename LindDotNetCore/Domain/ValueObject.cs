@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 
-namespace Lind.DotNetCore.Domain
+namespace LindDotNetCore.Domain
 {
     /// <summary>
     /// 值对象－不会被持久化

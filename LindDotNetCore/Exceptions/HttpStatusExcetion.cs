@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Net;
 
-namespace Lind.DotNetCore.Exceptions
+namespace LindDotNetCore.Exceptions
 {
     /// <summary>
     /// 关于Http的异常抽象

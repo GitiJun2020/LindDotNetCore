@@ -1,6 +1,6 @@
 ﻿using System.Net;
 
-namespace Lind.DotNetCore.Exceptions
+namespace LindDotNetCore.Exceptions
 {
     /// <summary>
     /// 客户端输入问题
