@@ -10,12 +10,11 @@ WORKDIR /src/LindDotNetCore.Api
 RUN dotnet restore -nowarn:msb3202,nu1503
 COPY . .
 RUN ls
-WORKDIR LindDotNetCore.Api
 RUN dotnet build -c Release -o /app
 
 FROM build AS publish
-WORKDIR LindDotNetCore.Api
 RUN dotnet publish -c Release -o /app
+RUN ls
 
 FROM base AS final
 WORKDIR /app
