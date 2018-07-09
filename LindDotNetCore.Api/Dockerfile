@@ -4,6 +4,7 @@ EXPOSE 80
 
 FROM microsoft/aspnetcore-build:2.0 AS build
 WORKDIR /src
+COPY LindDotNetCore.sln /
 COPY LindDotNetCore.Api/LindDotNetCore.Api.csproj LindDotNetCore.Api/
 RUN dotnet restore -nowarn:msb3202,nu1503
 COPY . .
