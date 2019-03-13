@@ -1,5 +1,6 @@
 大叔以asp.net core为核心，进行了二次开发与封装，对各种常用的组件进行了配置和使用上的约定，这种
 使用模式类似于spring框架，用到哪个就注入哪个。
+> 大叔QQ：853066980
 
 ### LindDotNetCore相关模块介绍
 1. [x] [LindDotNetCore介绍与配置](./document/studyLindDotNetCore.md)
