@@ -20,5 +20,7 @@
   
 <ItemGroup>
     <ProjectReference Include="..\LindDotNetCore\LindDotNetCore.csproj" />
+    <ProjectReference Include="..\LindDotNetCore.Repository\LindDotNetCore.Repository.csproj" />
   </ItemGroup>
+
 </Project>
