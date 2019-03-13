@@ -1,0 +1,19 @@
+{
+    "csharp.format.enable": true,
+    "javascript.format.enable": true,
+    "java.errors.incompleteClasspath.severity": "ignore",
+    "explorer.confirmDelete": false,
+    "git.autofetch": true,
+    "workbench.colorTheme": "Default Light+",
+    "explorer.confirmDragAndDrop": false,
+    "git.confirmSync": false,
+    "editor.formatOnPaste": true,
+    "copyMarkdownAsHtml.typographer": true,
+    "prettier.eslintIntegration": true,
+    "files.autoSave": "afterDelay",
+    "python.pythonPath": "python3",
+    "editor.autoClosingBrackets": false,
+    "format.newLine": {
+        "brace": true //大括号换行
+    },
+}
