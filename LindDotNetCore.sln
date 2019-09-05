@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LindDotNetCore", "LindDotNe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LindDotNetCore.Repository", "LindDotNetCore.Repository\LindDotNetCore.Repository.csproj", "{386F312C-2EFB-4533-AC54-24806AD54C2B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{20B2F859-3A8B-42DA-8339-12C87B3E0EEF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{386F312C-2EFB-4533-AC54-24806AD54C2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{386F312C-2EFB-4533-AC54-24806AD54C2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{386F312C-2EFB-4533-AC54-24806AD54C2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20B2F859-3A8B-42DA-8339-12C87B3E0EEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20B2F859-3A8B-42DA-8339-12C87B3E0EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20B2F859-3A8B-42DA-8339-12C87B3E0EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20B2F859-3A8B-42DA-8339-12C87B3E0EEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
